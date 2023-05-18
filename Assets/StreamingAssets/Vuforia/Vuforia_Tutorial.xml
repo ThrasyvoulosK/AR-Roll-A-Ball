@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Dog" size="1.000000 0.666667" />
+    <ImageTarget name="cat" size="1.000000 0.665455" />
+    <ImageTarget name="Park_Marker_1" size="1.000000 1.500000" />
+    <ImageTarget name="Park_Marker_2" size="1.000000 0.663043" />
+    <ImageTarget name="Colorful_Marker" size="1.000000 1.000000" />
+    <ImageTarget name="Astronaut_Marker" size="1.000000 1.719298" />
+    <ImageTarget name="Pebbles" size="1.000000 0.623239" />
+    <ImageTarget name="Cube-Image" size="1.000000 0.569959" />
+  </Tracking>
+</QCARConfig>
